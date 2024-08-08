@@ -1,0 +1,10 @@
+D:\Laptrinhmang\ProjectQuickGame\QuickGame\QuickGame\obj\Debug\QuickGame.csproj.AssemblyReference.cache
+D:\Laptrinhmang\ProjectQuickGame\QuickGame\QuickGame\obj\Debug\QuickGame.Properties.Resources.resources
+D:\Laptrinhmang\ProjectQuickGame\QuickGame\QuickGame\obj\Debug\QuickGame.csproj.GenerateResource.cache
+D:\Laptrinhmang\ProjectQuickGame\QuickGame\QuickGame\obj\Debug\QuickGame.csproj.CoreCompileInputs.cache
+D:\Laptrinhmang\ProjectQuickGame\QuickGame\QuickGame\bin\Debug\QuickGame.exe.config
+D:\Laptrinhmang\ProjectQuickGame\QuickGame\QuickGame\bin\Debug\QuickGame.exe
+D:\Laptrinhmang\ProjectQuickGame\QuickGame\QuickGame\bin\Debug\QuickGame.pdb
+D:\Laptrinhmang\ProjectQuickGame\QuickGame\QuickGame\obj\Debug\QuickGame.Form1.resources
+D:\Laptrinhmang\ProjectQuickGame\QuickGame\QuickGame\obj\Debug\QuickGame.exe
+D:\Laptrinhmang\ProjectQuickGame\QuickGame\QuickGame\obj\Debug\QuickGame.pdb
