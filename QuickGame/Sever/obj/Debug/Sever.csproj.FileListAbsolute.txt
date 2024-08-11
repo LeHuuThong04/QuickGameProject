@@ -1,0 +1,7 @@
+D:\Demo\QuickGameProject\QuickGame\Sever\bin\Debug\Sever.exe.config
+D:\Demo\QuickGameProject\QuickGame\Sever\bin\Debug\Sever.exe
+D:\Demo\QuickGameProject\QuickGame\Sever\bin\Debug\Sever.pdb
+D:\Demo\QuickGameProject\QuickGame\Sever\obj\Debug\Sever.csproj.AssemblyReference.cache
+D:\Demo\QuickGameProject\QuickGame\Sever\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+D:\Demo\QuickGameProject\QuickGame\Sever\obj\Debug\Sever.exe
+D:\Demo\QuickGameProject\QuickGame\Sever\obj\Debug\Sever.pdb
