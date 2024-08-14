@@ -1,0 +1,5 @@
+D:\hk4\hkiHe\ltMang\quick\QuickGame\FormInput\obj\Debug\FormInput.csproj.AssemblyReference.cache
+D:\hk4\hkiHe\ltMang\quick\QuickGame\FormInput\obj\Debug\QuickGame.FormInput.resources
+D:\hk4\hkiHe\ltMang\quick\QuickGame\FormInput\obj\Debug\FormInput.Properties.Resources.resources
+D:\hk4\hkiHe\ltMang\quick\QuickGame\FormInput\obj\Debug\FormInput.csproj.GenerateResource.cache
+D:\hk4\hkiHe\ltMang\quick\QuickGame\FormInput\obj\Debug\FormInput.csproj.CoreCompileInputs.cache
