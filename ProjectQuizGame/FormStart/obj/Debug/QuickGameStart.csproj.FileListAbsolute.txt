@@ -1,0 +1,17 @@
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\bin\Debug\FormStart.exe.config
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\bin\Debug\FormStart.exe
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\bin\Debug\FormStart.pdb
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\bin\Debug\QuickGameMain.exe
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\bin\Debug\QuickGameMain.pdb
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\bin\Debug\QuickGameMain.exe.config
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\obj\Debug\QuickGameStart.csproj.AssemblyReference.cache
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\obj\Debug\QuickGameStart.FormStart.resources
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\obj\Debug\FormStart.Properties.Resources.resources
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\obj\Debug\QuickGameStart.csproj.GenerateResource.cache
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\obj\Debug\QuickGameStart.csproj.CoreCompileInputs.cache
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\obj\Debug\QuickGam.2BAAF351.Up2Date
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\obj\Debug\FormStart.exe
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\obj\Debug\FormStart.pdb
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\bin\Debug\ServerForm.exe
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\bin\Debug\ServerForm.pdb
+D:\Laptrinhmang\QuickGame\QuickGame\FormStart\bin\Debug\ServerForm.exe.config

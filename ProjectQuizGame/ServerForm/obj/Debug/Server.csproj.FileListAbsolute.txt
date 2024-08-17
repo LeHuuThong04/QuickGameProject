@@ -1,0 +1,10 @@
+D:\Laptrinhmang\QuickGame\QuickGame\ServerForm\bin\Debug\ServerForm.exe.config
+D:\Laptrinhmang\QuickGame\QuickGame\ServerForm\bin\Debug\ServerForm.exe
+D:\Laptrinhmang\QuickGame\QuickGame\ServerForm\bin\Debug\ServerForm.pdb
+D:\Laptrinhmang\QuickGame\QuickGame\ServerForm\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Laptrinhmang\QuickGame\QuickGame\ServerForm\obj\Debug\Server.ServerForm.resources
+D:\Laptrinhmang\QuickGame\QuickGame\ServerForm\obj\Debug\ServerForm.Properties.Resources.resources
+D:\Laptrinhmang\QuickGame\QuickGame\ServerForm\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Laptrinhmang\QuickGame\QuickGame\ServerForm\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Laptrinhmang\QuickGame\QuickGame\ServerForm\obj\Debug\ServerForm.exe
+D:\Laptrinhmang\QuickGame\QuickGame\ServerForm\obj\Debug\ServerForm.pdb

@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E81554F6-77B7-4699-8F47-62FF524F97B8}|QuickGameMain\\QuickGameMain.csproj|D:\\Laptrinhmang\\QuickGame\\QuickGame\\quickgamemain\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81554F6-77B7-4699-8F47-62FF524F97B8}|QuickGameMain\\QuickGameMain.csproj|solutionrelative:quickgamemain\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81554F6-77B7-4699-8F47-62FF524F97B8}|QuickGameMain\\QuickGameMain.csproj|D:\\Laptrinhmang\\QuickGame\\QuickGame\\quickgamemain\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E81554F6-77B7-4699-8F47-62FF524F97B8}|QuickGameMain\\QuickGameMain.csproj|solutionrelative:quickgamemain\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81554F6-77B7-4699-8F47-62FF524F97B8}|QuickGameMain\\QuickGameMain.csproj|D:\\Laptrinhmang\\QuickGame\\QuickGame\\quickgamemain\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81554F6-77B7-4699-8F47-62FF524F97B8}|QuickGameMain\\QuickGameMain.csproj|solutionrelative:quickgamemain\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12275D70-B5CC-41B1-B4DD-FF3D029098BD}|ServerForm\\Server.csproj|d:\\laptrinhmang\\quickgame\\quickgame\\serverform\\serverform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12275D70-B5CC-41B1-B4DD-FF3D029098BD}|ServerForm\\Server.csproj|solutionrelative:serverform\\serverform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12275D70-B5CC-41B1-B4DD-FF3D029098BD}|ServerForm\\Server.csproj|d:\\laptrinhmang\\quickgame\\quickgame\\serverform\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12275D70-B5CC-41B1-B4DD-FF3D029098BD}|ServerForm\\Server.csproj|solutionrelative:serverform\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90806723-905E-43DA-A6A6-FE315E4B4E6F}|FormStart\\QuickGameStart.csproj|D:\\Laptrinhmang\\QuickGame\\QuickGame\\formstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90806723-905E-43DA-A6A6-FE315E4B4E6F}|FormStart\\QuickGameStart.csproj|solutionrelative:formstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90806723-905E-43DA-A6A6-FE315E4B4E6F}|FormStart\\FormStart.csproj|D:\\Laptrinhmang\\QuickGame\\QuickGame\\formstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90806723-905E-43DA-A6A6-FE315E4B4E6F}|FormStart\\FormStart.csproj|solutionrelative:formstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90806723-905E-43DA-A6A6-FE315E4B4E6F}|FormStart\\QuickGameStart.csproj|D:\\Laptrinhmang\\QuickGame\\QuickGame\\formstart\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90806723-905E-43DA-A6A6-FE315E4B4E6F}|FormStart\\QuickGameStart.csproj|solutionrelative:formstart\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81554F6-77B7-4699-8F47-62FF524F97B8}|QuickGameMain\\QuickGameMain.csproj|D:\\Laptrinhmang\\QuickGame\\QuickGame\\quickgamemain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81554F6-77B7-4699-8F47-62FF524F97B8}|QuickGameMain\\QuickGameMain.csproj|solutionrelative:quickgamemain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12275D70-B5CC-41B1-B4DD-FF3D029098BD}|ServerForm\\FormServer.csproj|D:\\Laptrinhmang\\QuickGame\\QuickGame\\serverform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12275D70-B5CC-41B1-B4DD-FF3D029098BD}|ServerForm\\FormServer.csproj|solutionrelative:serverform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12275D70-B5CC-41B1-B4DD-FF3D029098BD}|ServerForm\\Server.csproj|d:\\laptrinhmang\\quickgame\\quickgame\\serverform\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12275D70-B5CC-41B1-B4DD-FF3D029098BD}|ServerForm\\Server.csproj|solutionrelative:serverform\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90806723-905E-43DA-A6A6-FE315E4B4E6F}|FormStart\\FormStart.csproj|D:\\Laptrinhmang\\QuickGame\\QuickGame\\formstart\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90806723-905E-43DA-A6A6-FE315E4B4E6F}|FormStart\\FormStart.csproj|solutionrelative:formstart\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90806723-905E-43DA-A6A6-FE315E4B4E6F}|FormStart\\QuickGameStart.csproj|D:\\Laptrinhmang\\QuickGame\\QuickGame\\formstart\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90806723-905E-43DA-A6A6-FE315E4B4E6F}|FormStart\\QuickGameStart.csproj|solutionrelative:formstart\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90806723-905E-43DA-A6A6-FE315E4B4E6F}|FormStart\\FormStart.csproj|D:\\Laptrinhmang\\QuickGame\\QuickGame\\formstart\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90806723-905E-43DA-A6A6-FE315E4B4E6F}|FormStart\\FormStart.csproj|solutionrelative:formstart\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90806723-905E-43DA-A6A6-FE315E4B4E6F}|FormStart\\QuickGameStart.csproj|D:\\Laptrinhmang\\QuickGame\\QuickGame\\formstart\\formstart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90806723-905E-43DA-A6A6-FE315E4B4E6F}|FormStart\\QuickGameStart.csproj|solutionrelative:formstart\\formstart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\ServerForm\\Program.cs",
+              "RelativeDocumentMoniker": "ServerForm\\Program.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\ServerForm\\Program.cs",
+              "RelativeToolTip": "ServerForm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T16:41:26.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormStart.Designer.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\FormStart\\FormStart.Designer.cs",
+              "RelativeDocumentMoniker": "FormStart\\FormStart.Designer.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\FormStart\\FormStart.Designer.cs",
+              "RelativeToolTip": "FormStart\\FormStart.Designer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:25:55.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormStart.cs [Design]",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\FormStart\\FormStart.cs",
+              "RelativeDocumentMoniker": "FormStart\\FormStart.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\FormStart\\FormStart.cs [Design]",
+              "RelativeToolTip": "FormStart\\FormStart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:25:55.841Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\FormStart\\Program.cs",
+              "RelativeDocumentMoniker": "FormStart\\Program.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\FormStart\\Program.cs",
+              "RelativeToolTip": "FormStart\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T16:22:57.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServerForm.Designer.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\ServerForm\\ServerForm.Designer.cs",
+              "RelativeDocumentMoniker": "ServerForm\\ServerForm.Designer.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\ServerForm\\ServerForm.Designer.cs",
+              "RelativeToolTip": "ServerForm\\ServerForm.Designer.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswCIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T16:25:04.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerForm.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\ServerForm\\ServerForm.cs",
+              "RelativeDocumentMoniker": "ServerForm\\ServerForm.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\ServerForm\\ServerForm.cs",
+              "RelativeToolTip": "ServerForm\\ServerForm.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwCQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T16:24:45.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServerForm.cs [Design]",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\ServerForm\\ServerForm.cs",
+              "RelativeDocumentMoniker": "ServerForm\\ServerForm.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\ServerForm\\ServerForm.cs [Design]",
+              "RelativeToolTip": "ServerForm\\ServerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T16:22:42.706Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormStart.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\FormStart\\FormStart.cs",
+              "RelativeDocumentMoniker": "FormStart\\FormStart.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\FormStart\\FormStart.cs",
+              "RelativeToolTip": "FormStart\\FormStart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:25:55.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\QuickGameMain\\Program.cs",
+              "RelativeDocumentMoniker": "QuickGameMain\\Program.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\QuickGameMain\\Program.cs",
+              "RelativeToolTip": "QuickGameMain\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T04:00:53.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\QuickGameMain\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "QuickGameMain\\Form1.Designer.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\QuickGameMain\\Form1.Designer.cs",
+              "RelativeToolTip": "QuickGameMain\\Form1.Designer.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAYwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T04:00:23.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\QuickGameMain\\Form1.cs",
+              "RelativeDocumentMoniker": "QuickGameMain\\Form1.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\QuickGameMain\\Form1.cs",
+              "RelativeToolTip": "QuickGameMain\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T04:00:17.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\QuickGameMain\\Form1.cs",
+              "RelativeDocumentMoniker": "QuickGameMain\\Form1.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\QuickGameMain\\Form1.cs [Design]",
+              "RelativeToolTip": "QuickGameMain\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:59:59.422Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormStart.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\FormStart\\FormStart.cs",
+              "RelativeDocumentMoniker": "FormStart\\FormStart.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\FormStart\\FormStart.cs",
+              "RelativeToolTip": "FormStart\\FormStart.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:58:44.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\FormStart\\Program.cs",
+              "RelativeDocumentMoniker": "FormStart\\Program.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\FormStart\\Program.cs",
+              "RelativeToolTip": "FormStart\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:59:14.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormStart.cs [Design]",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\FormStart\\FormStart.cs",
+              "RelativeDocumentMoniker": "FormStart\\FormStart.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGame\\FormStart\\FormStart.cs [Design]",
+              "RelativeToolTip": "FormStart\\FormStart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:58:14.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
