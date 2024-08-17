@@ -12,3 +12,17 @@ D:\Laptrinhmang\QuickGame\QuickGame\QuickGameMain\bin\Debug\ServerForm.exe
 D:\Laptrinhmang\QuickGame\QuickGame\QuickGameMain\bin\Debug\ServerForm.pdb
 D:\Laptrinhmang\QuickGame\QuickGame\QuickGameMain\bin\Debug\ServerForm.exe.config
 D:\Laptrinhmang\QuickGame\QuickGame\QuickGameMain\obj\Debug\QuickGam.96125487.Up2Date
+D:\hk4\hkiHe\ltMang\quick\QuickGameProject\QuickGameProject\ProjectQuizGame\QuickGameMain\bin\Debug\QuickGameMain.exe.config
+D:\hk4\hkiHe\ltMang\quick\QuickGameProject\QuickGameProject\ProjectQuizGame\QuickGameMain\bin\Debug\QuickGameMain.exe
+D:\hk4\hkiHe\ltMang\quick\QuickGameProject\QuickGameProject\ProjectQuizGame\QuickGameMain\bin\Debug\QuickGameMain.pdb
+D:\hk4\hkiHe\ltMang\quick\QuickGameProject\QuickGameProject\ProjectQuizGame\QuickGameMain\bin\Debug\ServerForm.exe
+D:\hk4\hkiHe\ltMang\quick\QuickGameProject\QuickGameProject\ProjectQuizGame\QuickGameMain\bin\Debug\ServerForm.pdb
+D:\hk4\hkiHe\ltMang\quick\QuickGameProject\QuickGameProject\ProjectQuizGame\QuickGameMain\bin\Debug\ServerForm.exe.config
+D:\hk4\hkiHe\ltMang\quick\QuickGameProject\QuickGameProject\ProjectQuizGame\QuickGameMain\obj\Debug\QuickGameMain.csproj.AssemblyReference.cache
+D:\hk4\hkiHe\ltMang\quick\QuickGameProject\QuickGameProject\ProjectQuizGame\QuickGameMain\obj\Debug\QuickGameMain.Form1.resources
+D:\hk4\hkiHe\ltMang\quick\QuickGameProject\QuickGameProject\ProjectQuizGame\QuickGameMain\obj\Debug\QuickGameMain.Properties.Resources.resources
+D:\hk4\hkiHe\ltMang\quick\QuickGameProject\QuickGameProject\ProjectQuizGame\QuickGameMain\obj\Debug\QuickGameMain.csproj.GenerateResource.cache
+D:\hk4\hkiHe\ltMang\quick\QuickGameProject\QuickGameProject\ProjectQuizGame\QuickGameMain\obj\Debug\QuickGameMain.csproj.CoreCompileInputs.cache
+D:\hk4\hkiHe\ltMang\quick\QuickGameProject\QuickGameProject\ProjectQuizGame\QuickGameMain\obj\Debug\QuickGam.96125487.Up2Date
+D:\hk4\hkiHe\ltMang\quick\QuickGameProject\QuickGameProject\ProjectQuizGame\QuickGameMain\obj\Debug\QuickGameMain.exe
+D:\hk4\hkiHe\ltMang\quick\QuickGameProject\QuickGameProject\ProjectQuizGame\QuickGameMain\obj\Debug\QuickGameMain.pdb

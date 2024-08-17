@@ -40,6 +40,7 @@
             // lblPlayerName
             // 
             this.lblPlayerName.AutoSize = true;
+            this.lblPlayerName.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.lblPlayerName.Location = new System.Drawing.Point(12, 9);
             this.lblPlayerName.Name = "lblPlayerName";
             this.lblPlayerName.Size = new System.Drawing.Size(52, 16);
@@ -49,9 +50,11 @@
             // lblQuestion
             // 
             this.lblQuestion.AutoSize = true;
+            this.lblQuestion.BackColor = System.Drawing.Color.PaleGreen;
+            this.lblQuestion.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblQuestion.Location = new System.Drawing.Point(12, 40);
             this.lblQuestion.Name = "lblQuestion";
-            this.lblQuestion.Size = new System.Drawing.Size(63, 16);
+            this.lblQuestion.Size = new System.Drawing.Size(72, 16);
             this.lblQuestion.TabIndex = 1;
             this.lblQuestion.Text = "Question:";
             // 
@@ -101,27 +104,32 @@
             // 
             // btnSubmit
             // 
+            this.btnSubmit.BackColor = System.Drawing.Color.SkyBlue;
             this.btnSubmit.Location = new System.Drawing.Point(15, 179);
             this.btnSubmit.Name = "btnSubmit";
             this.btnSubmit.Size = new System.Drawing.Size(75, 23);
             this.btnSubmit.TabIndex = 6;
             this.btnSubmit.Text = "Submit";
-            this.btnSubmit.UseVisualStyleBackColor = true;
+            this.btnSubmit.UseVisualStyleBackColor = false;
             this.btnSubmit.Click += new System.EventHandler(this.btnSubmit_Click);
             // 
             // lblResult
             // 
             this.lblResult.AutoSize = true;
-            this.lblResult.Location = new System.Drawing.Point(12, 210);
+            this.lblResult.BackColor = System.Drawing.Color.MintCream;
+            this.lblResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResult.ForeColor = System.Drawing.Color.Red;
+            this.lblResult.Location = new System.Drawing.Point(127, 153);
             this.lblResult.Name = "lblResult";
-            this.lblResult.Size = new System.Drawing.Size(48, 16);
+            this.lblResult.Size = new System.Drawing.Size(55, 16);
             this.lblResult.TabIndex = 7;
             this.lblResult.Text = "Result:";
             // 
             // lblScore
             // 
             this.lblScore.AutoSize = true;
-            this.lblScore.Location = new System.Drawing.Point(12, 240);
+            this.lblScore.BackColor = System.Drawing.Color.LightCoral;
+            this.lblScore.Location = new System.Drawing.Point(11, 250);
             this.lblScore.Name = "lblScore";
             this.lblScore.Size = new System.Drawing.Size(53, 16);
             this.lblScore.TabIndex = 8;
@@ -129,18 +137,22 @@
             // 
             // btnPlayAgain
             // 
-            this.btnPlayAgain.Location = new System.Drawing.Point(100, 179);
+            this.btnPlayAgain.BackColor = System.Drawing.Color.Pink;
+            this.btnPlayAgain.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPlayAgain.ForeColor = System.Drawing.Color.Black;
+            this.btnPlayAgain.Location = new System.Drawing.Point(181, 179);
             this.btnPlayAgain.Name = "btnPlayAgain";
-            this.btnPlayAgain.Size = new System.Drawing.Size(116, 23);
+            this.btnPlayAgain.Size = new System.Drawing.Size(110, 32);
             this.btnPlayAgain.TabIndex = 9;
             this.btnPlayAgain.Text = "Play Again";
-            this.btnPlayAgain.UseVisualStyleBackColor = true;
+            this.btnPlayAgain.UseVisualStyleBackColor = false;
             this.btnPlayAgain.Visible = false;
             this.btnPlayAgain.Click += new System.EventHandler(this.btnPlayAgain_Click);
             // 
             // Form1
             // 
-            this.ClientSize = new System.Drawing.Size(272, 261);
+            this.BackColor = System.Drawing.Color.PaleGreen;
+            this.ClientSize = new System.Drawing.Size(482, 321);
             this.Controls.Add(this.lblScore);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.btnSubmit);

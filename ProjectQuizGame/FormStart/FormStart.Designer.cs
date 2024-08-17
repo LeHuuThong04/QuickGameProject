@@ -26,32 +26,36 @@
             // lblPlayerName
             // 
             this.lblPlayerName.AutoSize = true;
-            this.lblPlayerName.Location = new System.Drawing.Point(12, 15);
+            this.lblPlayerName.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPlayerName.Location = new System.Drawing.Point(52, 27);
             this.lblPlayerName.Name = "lblPlayerName";
-            this.lblPlayerName.Size = new System.Drawing.Size(124, 17);
+            this.lblPlayerName.Size = new System.Drawing.Size(123, 16);
             this.lblPlayerName.TabIndex = 0;
             this.lblPlayerName.Text = "Enter your name:";
             // 
             // txtPlayerName
             // 
-            this.txtPlayerName.Location = new System.Drawing.Point(142, 12);
+            this.txtPlayerName.Location = new System.Drawing.Point(182, 24);
             this.txtPlayerName.Name = "txtPlayerName";
             this.txtPlayerName.Size = new System.Drawing.Size(100, 22);
             this.txtPlayerName.TabIndex = 1;
             // 
             // btnPlay
             // 
-            this.btnPlay.Location = new System.Drawing.Point(15, 50);
+            this.btnPlay.BackColor = System.Drawing.Color.Pink;
+            this.btnPlay.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPlay.Location = new System.Drawing.Point(55, 62);
             this.btnPlay.Name = "btnPlay";
-            this.btnPlay.Size = new System.Drawing.Size(227, 30);
+            this.btnPlay.Size = new System.Drawing.Size(227, 39);
             this.btnPlay.TabIndex = 2;
             this.btnPlay.Text = "Play";
-            this.btnPlay.UseVisualStyleBackColor = true;
+            this.btnPlay.UseVisualStyleBackColor = false;
             this.btnPlay.Click += new System.EventHandler(this.btnPlay_Click);
             // 
             // FormStart
             // 
-            this.ClientSize = new System.Drawing.Size(284, 101);
+            this.BackColor = System.Drawing.Color.PaleGreen;
+            this.ClientSize = new System.Drawing.Size(347, 137);
             this.Controls.Add(this.btnPlay);
             this.Controls.Add(this.txtPlayerName);
             this.Controls.Add(this.lblPlayerName);
@@ -59,6 +63,7 @@
             this.Text = "Start Form";
             this.ResumeLayout(false);
             this.PerformLayout();
+
         }
     }
 }
