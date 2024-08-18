@@ -1,0 +1,20 @@
+D:\Source\Game-riêng\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Source\Game-riêng\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Source\Game-riêng\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Source\Game-riêng\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Source\Game-riêng\Client\bin\Debug\Client.exe.config
+D:\Source\Game-riêng\Client\bin\Debug\Client.exe
+D:\Source\Game-riêng\Client\bin\Debug\Client.pdb
+D:\Source\Game-riêng\Client\obj\Debug\Client.exe
+D:\Source\Game-riêng\Client\obj\Debug\Client.pdb
+D:\Source\Game-riêng\Client\obj\Debug\Client.Form1.resources
+C:\Users\Admin\Documents\Zalo Received Files\Game-riêng\Game-riêng\Client\bin\Debug\Client.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\Game-riêng\Game-riêng\Client\bin\Debug\Client.exe
+C:\Users\Admin\Documents\Zalo Received Files\Game-riêng\Game-riêng\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Game-riêng\Game-riêng\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\Game-riêng\Game-riêng\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\Game-riêng\Game-riêng\Client\obj\Debug\Client.Form1.resources
+C:\Users\Admin\Documents\Zalo Received Files\Game-riêng\Game-riêng\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\Game-riêng\Game-riêng\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Game-riêng\Game-riêng\Client\obj\Debug\Client.exe
+C:\Users\Admin\Documents\Zalo Received Files\Game-riêng\Game-riêng\Client\obj\Debug\Client.pdb

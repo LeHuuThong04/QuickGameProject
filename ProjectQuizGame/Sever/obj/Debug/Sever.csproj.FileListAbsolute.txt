@@ -1,0 +1,7 @@
+D:\Source\Game-riêng\Sever\bin\Debug\Sever.exe.config
+D:\Source\Game-riêng\Sever\bin\Debug\Sever.exe
+D:\Source\Game-riêng\Sever\bin\Debug\Sever.pdb
+D:\Source\Game-riêng\Sever\obj\Debug\Sever.csproj.AssemblyReference.cache
+D:\Source\Game-riêng\Sever\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+D:\Source\Game-riêng\Sever\obj\Debug\Sever.exe
+D:\Source\Game-riêng\Sever\obj\Debug\Sever.pdb
