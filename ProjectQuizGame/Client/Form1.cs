@@ -42,27 +42,25 @@ namespace Client
         {
             try
             {
-                client = new TcpClient("192.168.1.8", 12345); ; // Kết nối đến server
+                string hostName = Dns.GetHostName(); // Lấy tên máy chủ
+                IPAddress[] ips = Dns.GetHostAddresses(hostName); // Lấy danh sách các địa chỉ IP của máy chủ
+                IPAddress serverIP = ips.First(ip => ip.AddressFamily == AddressFamily.InterNetwork); // Chọn địa chỉ IPv4 đầu tiên
+
+                client = new TcpClient(serverIP.ToString(), 12345); // Kết nối đến server
                 stream = client.GetStream();
                 reader = new StreamReader(stream);
                 writer = new StreamWriter(stream);
 
-
                 // Nhận câu hỏi và bắt đầu trò chơi
                 ReceiveQuestions();
                 button1.Visible = false; // Ẩn nút "Chơi" sau khi kết nối
-
-                /* Khởi tạo và bắt đầu timer
-                timer = new System.Windows.Forms.Timer();
-                timer.Interval = 1000; // 1 giây
-                timer.Tick += Timer_Tick;
-                timer.Start();*/
             }
             catch (Exception ex)
             {
                 MessageBox.Show("Lỗi kết nối đến server: " + ex.Message);
             }
         }
+
 
         private void ReceiveQuestions()
         {

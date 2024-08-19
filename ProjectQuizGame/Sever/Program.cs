@@ -95,18 +95,21 @@ namespace Sever
         // Lưu kết quả vào file
         static void SaveResult(int correctAnswers)
         {
-            using (StreamWriter sw = File.AppendText("ketqua.txt"))
+            string outputFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Resources", "ketqua.txt");
+            using (StreamWriter sw = File.AppendText(outputFilePath))
             {
                 sw.WriteLine(correctAnswers + "/10");
             }
         }
+
     }
 
     class Program
     {
         static void Main(string[] args)
         {
-            QuizServer.questions = QuestionLoader.LoadQuestions("cauhoi.txt");
+            string inputFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Resources", "cauhoi.txt");
+            QuizServer.questions = QuestionLoader.LoadQuestions(inputFilePath);
 
             // Tạo socket server và lắng nghe kết nối từ client
             TcpListener server = new TcpListener(IPAddress.Any, 12345);
@@ -122,5 +125,6 @@ namespace Sever
                 new Thread(() => QuizServer.HandleClient(client)).Start();
             }
         }
+
     }
 }

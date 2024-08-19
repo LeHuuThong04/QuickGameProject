@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\",
+  "WorkspaceRootPath": "D:\\Laptrinhmang\\QuickGame\\QuickGameProject\\ProjectQuizGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|c:\\users\\admin\\documents\\zalo received files\\game-ri\u00EAng\\game-ri\u00EAng\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9753EA22-D580-437C-B907-66C458E22FD7}|Sever\\Sever.csproj|C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\sever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9753EA22-D580-437C-B907-66C458E22FD7}|Sever\\Sever.csproj|d:\\laptrinhmang\\quickgame\\quickgameproject\\projectquizgame\\sever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9753EA22-D580-437C-B907-66C458E22FD7}|Sever\\Sever.csproj|solutionrelative:sever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\client\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|solutionrelative:client\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|d:\\laptrinhmang\\quickgame\\quickgameproject\\projectquizgame\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|D:\\Laptrinhmang\\QuickGame\\QuickGameProject\\ProjectQuizGame\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\client\\quizclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|solutionrelative:client\\quizclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|d:\\laptrinhmang\\quickgame\\quickgameproject\\projectquizgame\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|D:\\Laptrinhmang\\QuickGame\\QuickGameProject\\ProjectQuizGame\\client\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F25974-07CD-430C-B20B-CCA2180A4FF8}|Client\\Client.csproj|solutionrelative:client\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\Client\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Client\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\Client\\Form1.Designer.cs",
-              "RelativeToolTip": "Client\\Form1.Designer.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAwwG0AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T10:41:04.546Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGameProject\\ProjectQuizGame\\Sever\\Program.cs",
+              "RelativeDocumentMoniker": "Sever\\Program.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGameProject\\ProjectQuizGame\\Sever\\Program.cs",
+              "RelativeToolTip": "Sever\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwv1MAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:47:02.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGameProject\\ProjectQuizGame\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGameProject\\ProjectQuizGame\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:41:40.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGameProject\\ProjectQuizGame\\Client\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.Designer.cs",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGameProject\\ProjectQuizGame\\Client\\Form1.Designer.cs",
+              "RelativeToolTip": "Client\\Form1.Designer.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAAACsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T10:41:04.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\Client\\Form1.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGameProject\\ProjectQuizGame\\Client\\Form1.cs",
               "RelativeDocumentMoniker": "Client\\Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\Client\\Form1.cs [Design]*",
-              "RelativeToolTip": "Client\\Form1.cs [Design]*",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGameProject\\ProjectQuizGame\\Client\\Form1.cs [Design]",
+              "RelativeToolTip": "Client\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T03:01:57.296Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\Client\\Form1.cs",
+              "DocumentMoniker": "D:\\Laptrinhmang\\QuickGame\\QuickGameProject\\ProjectQuizGame\\Client\\Form1.cs",
               "RelativeDocumentMoniker": "Client\\Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\Client\\Form1.cs*",
-              "RelativeToolTip": "Client\\Form1.cs*",
-              "ViewState": "AQIAACcAAAAAAAAAAAAMwDYAAAAQAAAA",
+              "ToolTip": "D:\\Laptrinhmang\\QuickGame\\QuickGameProject\\ProjectQuizGame\\Client\\Form1.cs",
+              "RelativeToolTip": "Client\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T03:02:50.206Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QuizClient.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\Client\\QuizClient.cs",
-              "RelativeDocumentMoniker": "Client\\QuizClient.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\Client\\QuizClient.cs",
-              "RelativeToolTip": "Client\\QuizClient.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAMwBYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T02:54:48.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\Sever\\Program.cs",
-              "RelativeDocumentMoniker": "Sever\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Zalo Received Files\\Game-ri\u00EAng\\Game-ri\u00EAng\\Sever\\Program.cs",
-              "RelativeToolTip": "Sever\\Program.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAwwF8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T08:13:58.346Z"
             }
           ]
         }
