@@ -8,6 +8,7 @@ D:\Source\Game-riêng\Client\bin\Debug\Client.pdb
 D:\Source\Game-riêng\Client\obj\Debug\Client.exe
 D:\Source\Game-riêng\Client\obj\Debug\Client.pdb
 D:\Source\Game-riêng\Client\obj\Debug\Client.Form1.resources
+<<<<<<< HEAD
 D:\Laptrinhmang\QuickGame\QuickGameProject\ProjectQuizGame\Client\bin\Debug\Client.exe.config
 D:\Laptrinhmang\QuickGame\QuickGameProject\ProjectQuizGame\Client\bin\Debug\Client.exe
 D:\Laptrinhmang\QuickGame\QuickGameProject\ProjectQuizGame\Client\bin\Debug\Client.pdb
@@ -18,3 +19,5 @@ D:\Laptrinhmang\QuickGame\QuickGameProject\ProjectQuizGame\Client\obj\Debug\Clie
 D:\Laptrinhmang\QuickGame\QuickGameProject\ProjectQuizGame\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 D:\Laptrinhmang\QuickGame\QuickGameProject\ProjectQuizGame\Client\obj\Debug\Client.exe
 D:\Laptrinhmang\QuickGame\QuickGameProject\ProjectQuizGame\Client\obj\Debug\Client.pdb
+=======
+>>>>>>> 7c8d40462ce9a6473128daec7b93a1f2fe055546

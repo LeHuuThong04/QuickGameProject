@@ -1,59 +1,80 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Net;
 using System.Net.Sockets;
-using System.Reflection.Emit;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 
 namespace Client
 {
     public partial class Form1 : Form
     {
-        TcpClient client;
-        NetworkStream stream;
-        StreamReader reader;
-        StreamWriter writer;
-        int currentQuestionIndex = 0;
-        List<Question> questions = new List<Question>();
-        System.Windows.Forms.Timer timer;
-        int timeLeft = 10; // Thời gian cho mỗi câu hỏi
+        private TcpClient client;
+        private NetworkStream stream;
+        private StreamReader reader;
+        private StreamWriter writer;
+        private int currentQuestionIndex = 0;
+        private List<Question> questions = new List<Question>();
+        private System.Windows.Forms.Timer timer;
+        private int timeLeft = 10; // Thời gian cho mỗi câu hỏi
 
         public Form1()
         {
             InitializeComponent();
-            button1.Click += ConnectToServer; // Gán sự kiện click cho nút "Chơi"
-            button2.Click += SubmitAnswer; // Gán sự kiện click cho nút "Xác nhận"
+            InitializeGameComponents();
+        }
 
-            timer = new System.Windows.Forms.Timer(); // Khởi tạo timer
-            timer.Interval = 1000;
+        private void InitializeGameComponents()
+        {
+            // Gán sự kiện click cho các nút
+            button1.Click += ConnectToServer;
+            button2.Click += SubmitAnswer;
+
+            // Khởi tạo timer
+            timer = new System.Windows.Forms.Timer
+            {
+                Interval = 1000
+            };
             timer.Tick += Timer_Tick;
+
+            // Ẩn các thành phần giao diện ban đầu
+            label1.Visible = false;
+            label2.Visible = false;
+            radioButton1.Visible = false;
+            radioButton2.Visible = false;
+
+            // Gán sự kiện CheckedChanged cho radio buttons
+            radioButton1.CheckedChanged += RadioButton_CheckedChanged;
+            radioButton2.CheckedChanged += RadioButton_CheckedChanged;
         }
 
         private void ConnectToServer(object sender, EventArgs e)
         {
             try
             {
+<<<<<<< HEAD
                 string hostName = Dns.GetHostName(); // Lấy tên máy chủ
                 IPAddress[] ips = Dns.GetHostAddresses(hostName); // Lấy danh sách các địa chỉ IP của máy chủ
                 IPAddress serverIP = ips.First(ip => ip.AddressFamily == AddressFamily.InterNetwork); // Chọn địa chỉ IPv4 đầu tiên
 
                 client = new TcpClient(serverIP.ToString(), 12345); // Kết nối đến server
+=======
+                client = new TcpClient("192.168.1.8", 12345);
+>>>>>>> 7c8d40462ce9a6473128daec7b93a1f2fe055546
                 stream = client.GetStream();
                 reader = new StreamReader(stream);
                 writer = new StreamWriter(stream);
 
+<<<<<<< HEAD
                 // Nhận câu hỏi và bắt đầu trò chơi
                 ReceiveQuestions();
                 button1.Visible = false; // Ẩn nút "Chơi" sau khi kết nối
+=======
+                ReceiveQuestions();
+                DisplayQuestion();
+
+                // Hiển thị các thành phần giao diện sau khi kết nối
+                ToggleGameControls(true);
+>>>>>>> 7c8d40462ce9a6473128daec7b93a1f2fe055546
             }
             catch (Exception ex)
             {
@@ -73,14 +94,12 @@ namespace Client
                     string answer2 = reader.ReadLine();
                     questions.Add(new Question { Content = content, Answer1 = answer1, Answer2 = answer2 });
                 }
-                DisplayQuestion();
             }
             catch (Exception ex)
             {
                 MessageBox.Show("Lỗi nhận câu hỏi từ server: " + ex.Message);
             }
         }
-
 
         private void DisplayQuestion()
         {
@@ -89,10 +108,12 @@ namespace Client
                 label1.Text = questions[currentQuestionIndex].Content;
                 radioButton1.Text = questions[currentQuestionIndex].Answer1;
                 radioButton2.Text = questions[currentQuestionIndex].Answer2;
-                timeLeft = 10;
-                label2.Text = timeLeft.ToString();
 
-                timer.Start(); // Bắt đầu lại timer cho câu hỏi mới
+                ResetTimer();
+
+                // Bỏ chọn tất cả radio buttons
+                radioButton1.Checked = false;
+                radioButton2.Checked = false;
             }
             else
             {
@@ -102,13 +123,11 @@ namespace Client
 
         private void SubmitAnswer(object sender, EventArgs e)
         {
-            timer.Stop(); // Dừng timer khi nhấn nút "Xác nhận"
+            timer.Stop();
 
-            string selectedAnswer = "";
-            if (radioButton1.Checked)
-                selectedAnswer = radioButton1.Text;
-            else if (radioButton2.Checked)
-                selectedAnswer = radioButton2.Text;
+            string selectedAnswer = radioButton1.Checked ? radioButton1.Text :
+                                    radioButton2.Checked ? radioButton2.Text :
+                                    "";
 
             writer.WriteLine(selectedAnswer);
             writer.Flush();
@@ -133,9 +152,7 @@ namespace Client
             {
                 stream.Close();
                 client.Close();
-                button1.Visible = true; // Hiển thị lại nút "Chơi"
-                currentQuestionIndex = 0;
-                questions.Clear();
+                ResetGame();
             }
         }
 
@@ -146,8 +163,7 @@ namespace Client
 
             if (timeLeft == 0)
             {
-                // Hết giờ, tự động gửi câu trả lời trống
-                writer.WriteLine("");
+                writer.WriteLine(""); // Gửi câu trả lời trống khi hết giờ
                 writer.Flush();
 
                 currentQuestionIndex++;
@@ -155,12 +171,51 @@ namespace Client
             }
         }
 
-    }
+        private void RadioButton_CheckedChanged(object sender, EventArgs e)
+        {
+            RadioButton radioButton = sender as RadioButton;
 
-    class Question
-    {
-        public string Content { get; set; }
-        public string Answer1 { get; set; }
-        public string Answer2 { get; set; }
+            if (radioButton != null && radioButton.Checked)
+            {
+                if (radioButton == radioButton1)
+                {
+                    radioButton2.Checked = false;
+                }
+                else if (radioButton == radioButton2)
+                {
+                    radioButton1.Checked = false;
+                }
+            }
+        }
+
+        private void ResetTimer()
+        {
+            timeLeft = 10;
+            label2.Text = timeLeft.ToString();
+            timer.Start();
+        }
+
+        private void ToggleGameControls(bool isVisible)
+        {
+            button1.Visible = !isVisible;
+            label1.Visible = isVisible;
+            label2.Visible = isVisible;
+            radioButton1.Visible = isVisible;
+            radioButton2.Visible = isVisible;
+        }
+
+        private void ResetGame()
+        {
+            currentQuestionIndex = 0;
+            questions.Clear();
+            ToggleGameControls(false);
+        }
+
+        class Question
+        {
+            public string Content { get; set; }
+            public string Answer1 { get; set; }
+            public string Answer2 { get; set; }
+        }
     }
 }
