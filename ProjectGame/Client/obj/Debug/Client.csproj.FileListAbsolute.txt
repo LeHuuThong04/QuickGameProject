@@ -21,3 +21,13 @@ D:\Laptrinhmang\QuickGame\QuickGameProject\ProjectQuizGame\Client\obj\Debug\Clie
 D:\Laptrinhmang\QuickGame\QuickGameProject\ProjectQuizGame\Client\obj\Debug\Client.pdb
 =======
 >>>>>>> 7c8d40462ce9a6473128daec7b93a1f2fe055546
+D:\Demo\ProjectGame\Client\bin\Debug\Client.exe.config
+D:\Demo\ProjectGame\Client\bin\Debug\Client.exe
+D:\Demo\ProjectGame\Client\bin\Debug\Client.pdb
+D:\Demo\ProjectGame\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Demo\ProjectGame\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Demo\ProjectGame\Client\obj\Debug\Client.Form1.resources
+D:\Demo\ProjectGame\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Demo\ProjectGame\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Demo\ProjectGame\Client\obj\Debug\Client.exe
+D:\Demo\ProjectGame\Client\obj\Debug\Client.pdb

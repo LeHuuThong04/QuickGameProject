@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using System.Net;
 using System.Net.Sockets;
 using System.Windows.Forms;
 
@@ -55,13 +57,19 @@ namespace Client
                 IPAddress[] ips = Dns.GetHostAddresses(hostName); // Lấy danh sách các địa chỉ IP của máy chủ
                 IPAddress serverIP = ips.First(ip => ip.AddressFamily == AddressFamily.InterNetwork); // Chọn địa chỉ IPv4 đầu tiên
 
+                if (serverIP == null)
+                {
+                    MessageBox.Show("Không thể lấy địa chỉ IPv4 của máy hiện tại.");
+                    return;
+                }
+
                 client = new TcpClient(serverIP.ToString(), 12345); // Kết nối đến server
                 stream = client.GetStream();
                 reader = new StreamReader(stream);
                 writer = new StreamWriter(stream);
                 // Nhận câu hỏi và bắt đầu trò chơi
-                ReceiveQuestions();
-                button1.Visible = false; // Ẩn nút "Chơi" sau khi kết nối
+
+
                 ReceiveQuestions();
                 DisplayQuestion();
 
