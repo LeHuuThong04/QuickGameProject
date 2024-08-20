@@ -51,30 +51,22 @@ namespace Client
         {
             try
             {
-<<<<<<< HEAD
                 string hostName = Dns.GetHostName(); // Lấy tên máy chủ
                 IPAddress[] ips = Dns.GetHostAddresses(hostName); // Lấy danh sách các địa chỉ IP của máy chủ
                 IPAddress serverIP = ips.First(ip => ip.AddressFamily == AddressFamily.InterNetwork); // Chọn địa chỉ IPv4 đầu tiên
 
                 client = new TcpClient(serverIP.ToString(), 12345); // Kết nối đến server
-=======
-                client = new TcpClient("192.168.1.8", 12345);
->>>>>>> 7c8d40462ce9a6473128daec7b93a1f2fe055546
                 stream = client.GetStream();
                 reader = new StreamReader(stream);
                 writer = new StreamWriter(stream);
-
-<<<<<<< HEAD
                 // Nhận câu hỏi và bắt đầu trò chơi
                 ReceiveQuestions();
                 button1.Visible = false; // Ẩn nút "Chơi" sau khi kết nối
-=======
                 ReceiveQuestions();
                 DisplayQuestion();
 
                 // Hiển thị các thành phần giao diện sau khi kết nối
                 ToggleGameControls(true);
->>>>>>> 7c8d40462ce9a6473128daec7b93a1f2fe055546
             }
             catch (Exception ex)
             {
